@@ -92,7 +92,7 @@ MIT License
 
 ## 作者
 
-[你的名字]
+[jiale-cheng01]
 
 ## 致谢
 
